@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello👋
+
 
 <!--
 **PAYIZ/PAYIZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![PAYIZ's github stats](https://github-readme-stats.vercel.app/api?username=PAYIZ&show_icons=true&theme=radical) 
-
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAYIZ&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=PAYIZ&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="PAYIZ's Github Stats" />
