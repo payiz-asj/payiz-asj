@@ -20,12 +20,12 @@
 ### My Common Development Languages：
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAYIZ&hide_title=1&hide=kotlin,javascript&theme=buefy&line_height=27&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payiz-asj&hide_title=1&hide=kotlin,javascript&theme=buefy&line_height=27&layout=compact"/>
 </p>
 
 ### My Git-hub Statistics：
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=PAYIZ&hide_title=ture&hide=issues&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=flag-india" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=payiz-asj&hide_title=ture&hide=issues&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=flag-india" />
 </p>
 
