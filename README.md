@@ -20,7 +20,7 @@
 ### My Common Development Languages：
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAYIZ&hide_title=1&hide=kotlin,javascript&langs_count=5&theme=buefy&line_height=27&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAYIZ&hide_title=1&hide=kotlin,javascript&theme=buefy&line_height=27&layout=compact"/>
 </p>
 
 ### My Git-hub Statistics：
