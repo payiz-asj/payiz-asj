@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋, I'm 艾山江</h1>
 <h3 align="center">A passionate software developer from china</h3>
 <p align="center"> 
-<img align="center" src="https://komarev.com/ghpvc/?username=payiz-asj&style=flat-square" alt="payiz-asj" /> 
+<img align="center" src="https://komarev.com/ghpvc/?username=payiz-asj"&style=flat-square" alt="payiz-asj" /> 
 </p>
 
 
@@ -21,8 +21,8 @@
 
 * <p>🌱 I’m currently learning <a title = "Data Structure" >DS</a>, <a title = "Computer Algorithm" >CA</a>, <a title = "Machine Learning" >ML</a>,<a title = "Natural Language Processing" >NLP</a>,Web Crawler... </p>
 
-  
-<a title = "Data Structure" >DS</a>
+
+
 * 💬 Hope you find out something you like  here or on my personal blog at: [夜莺悠吟](https://yeying.tech)
 
   
