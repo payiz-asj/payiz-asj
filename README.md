@@ -1,4 +1,4 @@
-### Hello👋
+### Hello I'm [艾山江](https://yeying.com) 👋
 
 
 <!--
@@ -13,7 +13,7 @@
 
   
 
-* 💬 Hope you find out something you like  here or on my personal blog at:
+* 💬 Hope you find out something you like  here or on my personal blog at: [夜莺悠吟](https://yeying.com)
 
   
 
