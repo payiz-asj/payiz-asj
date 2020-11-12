@@ -9,13 +9,17 @@
 
 <h1 align="center">Hi 👋, I'm 艾山江</h1>
 <h3 align="center">A passionate software developer from china</h3>
-<p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=payiz-asj&style=flat-square" alt="payiz-asj" /> </p>
+<p align="center"> 
+<img align="center" src="https://komarev.com/ghpvc/?username=payiz-asj&style=flat-square" alt="payiz-asj" /> 
+</p>
+
+
 
 * 🎓 I'm an undergraduate of Department of Computer Science and Technology in Nanjing University.
 
   
 
-* 🌱 I’m currently learning <a title = "Data Structure" >DS</a>, <a title = "Computer Algorithm" >CA</a>, <a title = "Machine Learning" >ML</a>,<a title = "Natural Language Processing" >NLP</a>,Web Crawler... 
+* <p>🌱 I’m currently learning <a title = "Data Structure" >DS</a>, <a title = "Computer Algorithm" >CA</a>, <a title = "Machine Learning" >ML</a>,<a title = "Natural Language Processing" >NLP</a>,Web Crawler... </p>
 
   
 
