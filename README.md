@@ -17,13 +17,12 @@
 
 * 🎓 I'm an undergraduate of Department of Computer Science and Technology in Nanjing University.
 
-  
 
 * <p>🌱 I’m currently learning <a title = "Data Structure" >DS</a>, <a title = "Computer Algorithm" >CA</a>, <a title = "Machine Learning" >ML</a>,<a title = "Natural Language Processing" >NLP</a>,Web Crawler... </p>
 
+* 🔍 At the time of graduation, I am looking for software engineering related jobs.
 
-
-* 💬 Hope you find out something you like  here or on my personal blog at: [夜莺悠吟](https://yeying.tech)
+* 💬 Wish you find-out something you like  here or on my personal blog: [夜莺悠吟](https://yeying.tech)
 
   
 
