@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">I'm a passionate software developer from China</h3>
 <p align="center"> 
-<img align="center" src="https://komarev.com/ghpvc/?username=payiz-asj&color=blue&style=plastic&label=PROFILE+VISITORS" alt="裂开！这里本该显示阅读量" /> 
+<img align="center" src="https://komarev.com/ghpvc/?username=payiz-asj&color=blue&style=flat&label=PROFILE+VISITORS" alt="裂开！这里本该显示阅读量" /> 
 </p>
 
 
@@ -33,9 +33,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payiz-asj&hide_title=1&hide=kotlin,javascript&theme=buefy&line_height=27&layout=compact"/>
 </p>
 
+<!--
 ### My Git-hub Statistics：
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=payiz-asj&hide_title=ture&hide=issues&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=flag-india" />
 </p>
+
+-->
 
