@@ -7,10 +7,10 @@
 -->
 
 
-<h1 align="center">Hi 👋, I'm 艾山江</h1>
-<h3 align="center">A passionate software developer from china</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I'm a passionate software developer from China</h3>
 <p align="center"> 
-<img align="center" src="https://komarev.com/ghpvc/?username=payiz-asj"&style=flat-square" alt="payiz-asj" /> 
+<img align="center" src="https://komarev.com/ghpvc/?username=payiz-asj&color=blueviolet&style=plastic&label=PROFILE+VISITORS alt="裂开！这里本该显示阅读量" /> 
 </p>
 
 
