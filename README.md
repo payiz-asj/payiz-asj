@@ -18,7 +18,7 @@
 * 🎓 I'm an undergraduate of Department of Computer Science and Technology in Nanjing University.
 
 
-* <p>🌱 I’m currently learning <a title = "Data Structure" >DS</a>, <a title = "Computer Algorithm" >CA</a>, <a title = "Machine Learning" >ML</a>,<a title = "Natural Language Processing" >NLP</a>,Web Crawler... </p>
+* <p>🌱 I’m currently learning <a title = "Data Structure" >DS</a>, <a title = "Computer Algorithm" >CA</a>, <a title = "Machine Learning" >ML</a>,<a title = "Natural Language Processing" >NLP</a>,Web Design，Web Crawler... </p>
 
 * 🔍 At the time of graduation, I am looking for software engineering related jobs.
 
