@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">I'm a passionate software developer from China</h3>
 <p align="center"> 
-<img align="center" src="https://komarev.com/ghpvc/?username=payiz-asj&color=blueviolet&style=plastic&label=PROFILE+VISITORS alt="裂开！这里本该显示阅读量" /> 
+<img align="center" src="https://komarev.com/ghpvc/?username=payiz-asj&color=blue&style=plastic&label=PROFILE+VISITORS" alt="裂开！这里本该显示阅读量" /> 
 </p>
 
 
