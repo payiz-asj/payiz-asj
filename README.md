@@ -26,7 +26,7 @@
 
   
 
-### My Common Development Languages：
+<h3>My Common Development Languages:</h3>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payiz-asj&hide_title=1&hide=kotlin&theme=buefy&line_height=27&layout=compact"/>
