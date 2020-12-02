@@ -36,6 +36,10 @@
   <a href="#">
     <img align="right" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606951570862&di=4cb6ef1e5ed7a15c6212390998de00a3&imgtype=0&src=http%3A%2F%2Fs7.rr.itc.cn%2Fg%2FwapChange%2F20146_1_18%2Fa1xyev8121133423323.jpg" alt="图片裂开了？这里本该显示一个gif的"/>
   </a>
+  
+   <a href="#">
+    <img align="right" src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2118540923,3118231753&fm=26&gp=0.jpg" alt="图片裂开了？这里本该显示一个gif的"/>
+  </a>
 - Currently Focusing On:
 
   - Data Structure, Computer Algorithm
