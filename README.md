@@ -30,7 +30,7 @@
   - Others: Adobe Family Bucket(Especially PS, PR, AU, XD), My Laptop💻, My Phone📱.
   <!-- 动图效果 -->
    <a href="#">
-    <img align="right" src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1366499548,3437844775&fm=26&gp=0.jpg" alt="图片裂开了？这里本该显示一个gif的"/>
+    <img align="right" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606952480197&di=dc668de588ff25b613434a932d01b0d7&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fq_70%2Cc_zoom%2Cw_640%2Fimages%2F20181024%2F94ccb19968b349cc8521af3e5128eae9.gif" alt="图片裂开了？这里本该显示一个gif的"/>
   </a>
 - Currently Focusing On:
 
