@@ -1,0 +1,19 @@
+  
+name: Dev Time Stats
+
+on:
+  push:
+    branches: [ master ]
+  workflow_dispatch:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '1 * * * *'
+
+jobs:
+  update-readme:
+    name: Update Dev Time Today
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
