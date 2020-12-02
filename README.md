@@ -23,6 +23,9 @@
 * 🔍 At the time of graduation, I am looking for software engineering related jobs.
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
   
