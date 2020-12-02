@@ -31,6 +31,8 @@
   <a href="#">
     <img align="right" src="https://github.com/payiz-asj/payiz-asj/blob/main/%E8%84%96%E5%AD%90%E5%8F%97%E4%BC%A4.jpg" alt="图片裂开了？这里本该显示一个gif的"/>
   </a>
+  ![image](https://github.com/payiz-asj/payiz-asj/blob/main/%E8%84%96%E5%AD%90%E5%8F%97%E4%BC%A4.jpg)
+  [!image](https://github.com/payiz-asj/payiz-asj/blob/main/%E8%84%96%E5%AD%90%E5%8F%97%E4%BC%A4.jpg)
  
 - Currently Focusing On:
 
