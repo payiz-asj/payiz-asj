@@ -32,8 +32,10 @@
     <img align="right" src="https://github.com/payiz-asj/payiz-asj/blob/main/%E8%84%96%E5%AD%90%E5%8F%97%E4%BC%A4.jpg" alt="图片裂开了？这里本该显示一个gif的"/>
   </a>
   ![image](https://github.com/payiz-asj/payiz-asj/blob/main/%E8%84%96%E5%AD%90%E5%8F%97%E4%BC%A4.jpg)
-  [!image](https://github.com/payiz-asj/payiz-asj/blob/main/%E8%84%96%E5%AD%90%E5%8F%97%E4%BC%A4.jpg)
- 
+  [!image]('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606951570862&di=4cb6ef1e5ed7a15c6212390998de00a3&imgtype=0&src=http%3A%2F%2Fs7.rr.itc.cn%2Fg%2FwapChange%2F20146_1_18%2Fa1xyev8121133423323.jpg')
+  <a href="#">
+    <img align="right" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606951570862&di=4cb6ef1e5ed7a15c6212390998de00a3&imgtype=0&src=http%3A%2F%2Fs7.rr.itc.cn%2Fg%2FwapChange%2F20146_1_18%2Fa1xyev8121133423323.jpg" alt="图片裂开了？这里本该显示一个gif的"/>
+  </a>
 - Currently Focusing On:
 
   - Data Structure, Computer Algorithm
