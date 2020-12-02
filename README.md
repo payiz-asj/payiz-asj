@@ -19,7 +19,7 @@
 ### Brief Biography
 
 - Undergraduate of Department of Computer Science and Technology in Nanjing University.🎓
-- Junior Software Development Engineer.👨‍💻
+- Software Development Engineer.👨‍💻
 - **Technology Stack:**
 
   - Front-end: HTML 5, CSS, JS, TS, Wechat Mini Program, Framework: Vue, React .
