@@ -20,7 +20,7 @@
 
 - Undergraduate of Department of Computer Science and Technology in Nanjing University.🎓
 - Junior Software Development Engineer.👨‍💻
-- Technology Stack:
+- **Technology Stack:**
 
   - Front-end: HTML 5, CSS, JS, TS, Wechat Mini Program, Framework: Vue, React .
   - Back-end: Linux, Python Web development, crawler, scientific operation, data analysis, Framework: Django, Flask.
@@ -29,7 +29,7 @@
   - Dev Tools: Github, Gitee, Selenium, Scrapy,  postman, Fiddler,  FeHelper.
   - Others: Adobe Family Bucket(Especially PS, PR, AU, XD), My Laptop💻, My Phone📱.
   <!-- 动图效果 -->
-  <div align="right"  >----------LOVE YOU KOBE❤-----------</div>
+  <div align="right"  >-----------LOVE YOU KOBE❤-----------</div>
     <a href="#" align="right">
         <img align="right" src="http://5b0988e595225.cdn.sohucs.com/images/20190721/e8837828bc664adba3e9692712c90a99.gif" alt="图片裂开了？这里本该显示一个gif的"/> 
         
@@ -37,14 +37,14 @@
     
 
   
-- Currently Focusing On:
+- **Currently Focusing On:**
 
   - Data Structure, Computer Algorithm
   - Web Design,Web Crawler
   - Machine Learning
   - Natural Language Processing
   
-- Recent Wishes:
+- **Recent Wishes:**
 
   - At the time of graduation, I am applying for a software engineering related job.💌
   
