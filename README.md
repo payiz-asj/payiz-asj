@@ -30,8 +30,8 @@
   - Others: Adobe Family Bucket(Especially PS, PR, AU, XD), My Laptop💻, My Phone📱.
   <!-- 动图效果 -->
    <a href="#">
-    <img align="right" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606952641724&di=e88577d79bb7c5bd3710e97b024123b2&imgtype=0&src=http%3A%2F%2Fimage109.360doc.com%2FDownloadImg%2F2018%2F08%2F2421%2F142252843_3_20180824090405817.gif" alt="图片裂开了？这里本该显示一个gif的"/>
-  </a>
+    <img align="right" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606953043537&di=f0ecd55adb04059bd9cd22d264c8b6d0&imgtype=0&src=http%3A%2F%2Fimg4.imgtn.bdimg.com%2Fit%2Fu%3D1430672119%2C3032929430%26fm%3D214%26gp%3D0.jpg" alt="图片裂开了？这里本该显示一个gif的"/>
+
 - Currently Focusing On:
 
   - Data Structure, Computer Algorithm
