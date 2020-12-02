@@ -28,7 +28,10 @@
   - Favorite IDE: JetBrains Family Bucket (Especially PyCharm, WebStorm, IntelliJ IDEA ), Visual Studio, Sublime Text3, VMware Workstation.
   - Dev Tools: Github, Gitee, Selenium, Scrapy,  postman, Fiddler,  FeHelper.
   - Others: Adobe Family Bucket(Especially PS, PR, AU, XD), My Laptop💻, My Phone📱.
-  
+  <a href="#">
+    <img align="right" src=" https://wimg.588ku.com/gif620/20/09/27/938a1d0a44a41b951e44ae0332d85a3f.gif"/>
+  </a>
+ 
 - Currently Focusing On:
 
   - Data Structure, Computer Algorithm
@@ -42,7 +45,7 @@
   
 <!-- GitHub仓库展示 -->
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payiz-asj&hide_title=1&hide=kotlin&theme=buefy&line_height=27&layout=compact"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payiz-asj&hide_title=1&hide=kotlin&theme=buefy&line_height=27&layout=compact"/>
 </a>
 
 ### My Common Development Languages:
