@@ -31,7 +31,7 @@
   <!-- 动图效果 -->
    <a href="#">
     <img align="right" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606953043537&di=f0ecd55adb04059bd9cd22d264c8b6d0&imgtype=0&src=http%3A%2F%2Fimg4.imgtn.bdimg.com%2Fit%2Fu%3D1430672119%2C3032929430%26fm%3D214%26gp%3D0.jpg" alt="图片裂开了？这里本该显示一个gif的"/>
-
+  </a>
 - Currently Focusing On:
 
   - Data Structure, Computer Algorithm
