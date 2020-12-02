@@ -34,9 +34,9 @@ jobs:
       - uses: actions/checkout@master
        
       - name: update
-      - uses: athul/Coding_time_statistics@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-#           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-#           SHOW_TITLE: true
-#           COMMIT_MESSAGE: Updated the Readme
+          # GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_TITLE: true
+          COMMIT_MESSAGE: Updated the Readme
