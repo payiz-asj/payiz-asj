@@ -39,13 +39,13 @@
 - Recent Wishes:
 
   - At the time of graduation, I am applying for a software engineering related job.💌
-
-
+  
 <!-- GitHub仓库展示 -->
-
-### My Common Development Languages:<a href="#">
+<a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payiz-asj&hide_title=1&hide=kotlin&theme=buefy&line_height=27&layout=compact"/>
 </a>
+
+### My Common Development Languages:
 
 
 <!--
