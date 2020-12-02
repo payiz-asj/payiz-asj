@@ -15,7 +15,7 @@ on:
   # 添加时间间隔
   schedule:
     # Runs at 12am UTC
-    - cron: "0 0 * * *"
+    - cron: "1 * * * *"
       
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
