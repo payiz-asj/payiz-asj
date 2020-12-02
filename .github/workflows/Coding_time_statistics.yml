@@ -1,0 +1,23 @@
+name: Coding_time_statistics
+
+on:
+  push:
+    branches: 
+      - master
+  schedule:
+    # Runs at every 15min
+    - cron: '/15 * * * *'
+
+jobs:
+  update-Coding_time_statistics:
+    runs-on: ubuntu-latest
+    steps:
+     # 此处每一个name对应着一个Action
+     # 从master上获取最新代码
+      -name: Checkout Github Action
+        uses: actions/checkout@master
+      
+      -name: update
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
