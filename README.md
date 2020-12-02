@@ -45,9 +45,9 @@
 
 ### My Common Development Languages:
 
-<p align="right">
+<a align="right">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payiz-asj&hide_title=1&hide=kotlin&theme=buefy&line_height=27&layout=compact"/>
-</p>
+</a>
 
 <!--
 
