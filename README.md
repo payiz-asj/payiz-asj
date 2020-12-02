@@ -29,7 +29,7 @@
   - Dev Tools: Github, Gitee, Selenium, Scrapy,  postman, Fiddler,  FeHelper.
   - Others: Adobe Family Bucket(Especially PS, PR, AU, XD), My Laptop💻, My Phone📱.
   <a href="#">
-    <img align="right" src=" https://wimg.588ku.com/gif620/20/09/27/938a1d0a44a41b951e44ae0332d85a3f.gif"/>
+    <img align="right" src=" https://wimg.588ku.com/gif620/20/09/27/938a1d0a44a41b951e44ae0332d85a3f.gif" alt="图片裂开了？这里本该显示一个gif的"/>
   </a>
  
 - Currently Focusing On:
@@ -45,7 +45,7 @@
   
 <!-- GitHub仓库展示 -->
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payiz-asj&hide_title=1&hide=kotlin&theme=buefy&line_height=27&layout=compact"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payiz-asj&hide_title=1&hide=kotlin&theme=buefy&line_height=27&layout=compact" alt="图片裂开了？这里本该显示常用语言的"/>
 </a>
 
 ### My Common Development Languages:
