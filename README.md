@@ -42,6 +42,7 @@
 -->
 <!--START_SECTION:waka-->
 ```text
+Week: 10 July, 2020 - 17 July, 2020
 Vue.js       13 hrs 1 min    ████████░░░░░░░░░░░░░░░░░   32.36 % 
 TypeScript   11 hrs 9 mins   ███████░░░░░░░░░░░░░░░░░░   27.73 % 
 YAML         5 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 % 
