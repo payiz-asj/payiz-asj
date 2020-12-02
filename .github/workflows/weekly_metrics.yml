@@ -1,42 +1,42 @@
-# This is a basic workflow to help you get started with Actions
+# # This is a basic workflow to help you get started with Actions
 
-name: Coding_time_statistics
+# name: Coding_time_statistics
 
-# Controls when the action will run. 
-on:
-  # Triggers the workflow on push or pull request events but only for the main branch
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+# # Controls when the action will run. 
+# on:
+#   # Triggers the workflow on push or pull request events but only for the main branch
+#   push:
+#     branches: [ main ]
+#   pull_request:
+#     branches: [ main ]
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-  # 添加时间间隔
-  schedule:
-    # Runs at 12am UTC
-    - cron: "1 * * * *"
+#   # Allows you to run this workflow manually from the Actions tab
+#   workflow_dispatch:
+#   # 添加时间间隔
+#   schedule:
+#     # Runs at 12am UTC
+#     - cron: "1 * * * *"
       
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
-  # This workflow contains a single job called "update-Coding_time_statistics"
-  update-Coding_time_statistics:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+# # A workflow run is made up of one or more jobs that can run sequentially or in parallel
+# jobs:
+#   # This workflow contains a single job called "update-Coding_time_statistics"
+#   update-Coding_time_statistics:
+#     # The type of runner that the job will run on
+#     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
-      # 此处每一个name对应着一个Action
-      # 从master上获取最新代码
-      - name: Checkout Github Action
-      - uses: actions/checkout@master
+#     # Steps represent a sequence of tasks that will be executed as part of the job
+#     steps:
+#       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+#       - uses: actions/checkout@v2
+#       # 此处每一个name对应着一个Action
+#       # 从master上获取最新代码
+#       - name: Checkout Github Action
+#       - uses: actions/checkout@master
        
-      - name: update
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_TITLE: true
-          COMMIT_MESSAGE: Updated the Readme
+#       - name: update
+#       - uses: athul/waka-readme@master
+#         with:
+#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+#           # GH_TOKEN: ${{ secrets.GH_TOKEN }}
+#           SHOW_TITLE: true
+#           COMMIT_MESSAGE: Updated the Readme
