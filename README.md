@@ -1,37 +1,52 @@
-
-
-
+<!-- 默认自带的 -->
 <!--
 **PAYIZ/PAYIZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ### Hello I'm [艾山江](https://yeying.tech) 👋
--->
 
+--> 
 
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">I'm a passionate software developer from China</h3>
+<!-- 标题部分 -->
+
+<h1 align="center">Welcome!👋</h1>
+<h3 align="center">I'm a passionate software developer from China💖</h3>
 <p align="center"> 
-<img align="center" src="https://komarev.com/ghpvc/?username=payiz-asj&color=blue&style=flat&label=PROFILE+VISITORS" alt="裂开！这里本该显示阅读量" /> 
+<img align="center" src="https://komarev.com/ghpvc/?username=payiz-asj&color=blue&style=flat&label=PROFILE+VISITORS" alt="图片裂开了？这里本该显示阅读量的" /> 
 </p>
 
+<!-- 个人介绍 -->
+
+### Brief Biography
+
+- Undergraduate of Department of Computer Science and Technology in Nanjing University.🎓
+- Junior Software Development Engineer.👨‍💻
+- Technology Stack:
+
+  - Front-end: HTML 5, CSS, JS, TS,  Wechat Mini Program,  Framework : Vue, React .
+  - Back-end: Linux, Python Web development, crawler, scientific operation, data analysis, Django,  Flask.
+  - Database: Mysql, Sql server, sqlite
+  - Favorite IDE: JetBrains family bucket (Especially PyCharm, WebStorm, IntelliJ IDEA ), Visual Studio, Sublime Text3, VMware Workstation.
+  - Dev Tools: Github, Gitee, Selenium, Scrapy,  postman, Fiddler,  FeHelper.
+- Currently Focusing:
+
+  - Data Structure, Computer Algorithm
+  - Web Design,Web Crawler
+  - Machine Learning
+  - Natural Language Processing
+- Recent Wishes:
+  - At the time of graduation, I am applying for a software engineering related job.💌
 
 
-* 🎓 I'm an undergraduate of Department of Computer Science and Technology in Nanjing University.
+<!-- GitHub仓库展示 -->
 
-
-* <p>🌱 I’m currently learning <a title = "Data Structure" >DS</a>, <a title = "Computer Algorithm" >CA</a>, <a title = "Machine Learning" >ML</a>,<a title = "Natural Language Processing" >NLP</a>,Web Design,Web Crawler... </p>
-
-* 🔍 At the time of graduation, I am looking for software engineering related jobs.
-
-
-  
-
-<h3>My Common Development Languages:</h3>
+### My Common Development Languages:
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payiz-asj&hide_title=1&hide=kotlin&theme=buefy&line_height=27&layout=compact"/>
 </p>
 
 <!--
+
 ### My Git-hub Statistics：
 
 <p align="center">
@@ -40,7 +55,8 @@
 
 -->
 
+<!-- 后记 -->
+### More:
 
-
-* 💬 Enjoy yourself here or on my personal blog: [夜莺悠吟](https://yeying.tech)
+#### 💬 Enjoy yourself here or on my personal blog: [夜莺悠吟](https://yeying.tech)  
 
