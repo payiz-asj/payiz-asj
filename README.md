@@ -22,18 +22,22 @@
 - Junior Software Development Engineer.👨‍💻
 - Technology Stack:
 
-  - Front-end: HTML 5, CSS, JS, TS,  Wechat Mini Program,  Framework : Vue, React .
-  - Back-end: Linux, Python Web development, crawler, scientific operation, data analysis, Django,  Flask.
-  - Database: Mysql, Sql server, sqlite
-  - Favorite IDE: JetBrains family bucket (Especially PyCharm, WebStorm, IntelliJ IDEA ), Visual Studio, Sublime Text3, VMware Workstation.
+  - Front-end: HTML 5, CSS, JS, TS, Wechat Mini Program, Framework: Vue, React .
+  - Back-end: Linux, Python Web development, crawler, scientific operation, data analysis, Framework: Django, Flask.
+  - Database: Mysql, Sql Server, Sqlite
+  - Favorite IDE: JetBrains Family Bucket (Especially PyCharm, WebStorm, IntelliJ IDEA ), Visual Studio, Sublime Text3, VMware Workstation.
   - Dev Tools: Github, Gitee, Selenium, Scrapy,  postman, Fiddler,  FeHelper.
+  - Others: Adobe Family Bucket(Especially PS, PR, AU, XD), My Laptop💻, My Phone📱.
+  
 - Currently Focusing:
 
   - Data Structure, Computer Algorithm
   - Web Design,Web Crawler
   - Machine Learning
   - Natural Language Processing
+  
 - Recent Wishes:
+
   - At the time of graduation, I am applying for a software engineering related job.💌
 
 
