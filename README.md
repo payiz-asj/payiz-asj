@@ -29,7 +29,7 @@
   - Dev Tools: Github, Gitee, Selenium, Scrapy,  postman, Fiddler,  FeHelper.
   - Others: Adobe Family Bucket(Especially PS, PR, AU, XD), My Laptop💻, My Phone📱.
   <a href="#">
-    <img align="right" src=" https://wimg.588ku.com/gif620/20/09/27/938a1d0a44a41b951e44ae0332d85a3f.gif" alt="图片裂开了？这里本该显示一个gif的"/>
+    <img align="right" src="./222.gif" alt="图片裂开了？这里本该显示一个gif的"/>
   </a>
  
 - Currently Focusing On:
