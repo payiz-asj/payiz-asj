@@ -43,10 +43,10 @@
 
 <!-- GitHub仓库展示 -->
 
-### My Common Development Languages:
-<a href="#">
+### My Common Development Languages:<a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payiz-asj&hide_title=1&hide=kotlin&theme=buefy&line_height=27&layout=compact"/>
 </a>
+
 
 <!--
 
