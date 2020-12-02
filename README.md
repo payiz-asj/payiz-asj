@@ -30,9 +30,10 @@
   - Others: Adobe Family Bucket(Especially PS, PR, AU, XD), My Laptop💻, My Phone📱.
   <!-- 动图效果 -->
     <a href="#" align="right">
-        <img align="right" src="http://5b0988e595225.cdn.sohucs.com/images/20190721/e8837828bc664adba3e9692712c90a99.gif" alt="图片裂开了？这里本该显示一个gif的"/>   
+        <img align="right" src="http://5b0988e595225.cdn.sohucs.com/images/20190721/e8837828bc664adba3e9692712c90a99.gif" alt="图片裂开了？这里本该显示一个gif的"/> 
+        <div align="right"  >---------------LOVE YOU KOBE--------------</div>
     </a>
-    <a align="right"  >---------------LOVE YOU KOBE--------------</a>
+    
 
   
 - Currently Focusing On:
