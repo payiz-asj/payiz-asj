@@ -24,12 +24,12 @@
 
   - Front-end: HTML 5, CSS, JS, TS, Wechat Mini Program, Framework: Vue, React .
   - Back-end: Linux, Python Web development, crawler, scientific operation, data analysis, Framework: Django, Flask.
-  - Database: Mysql, Sql Server, Sqlite
+  - Database: Mysql, Sql Server, Sqlite.
   - Favorite IDE: JetBrains Family Bucket (Especially PyCharm, WebStorm, IntelliJ IDEA ), Visual Studio, Sublime Text3, VMware Workstation.
   - Dev Tools: Github, Gitee, Selenium, Scrapy,  postman, Fiddler,  FeHelper.
   - Others: Adobe Family Bucket(Especially PS, PR, AU, XD), My Laptop💻, My Phone📱.
   
-- Currently Focusing:
+- Currently Focusing On:
 
   - Data Structure, Computer Algorithm
   - Web Design,Web Crawler
