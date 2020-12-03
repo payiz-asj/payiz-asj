@@ -44,10 +44,7 @@
 - **Recent Wishes:**
 
 <div style="color:red;">At the time of graduation, I am applying for a software engineering related job.💌</div>
-<div style="color:red;font-size:20px;font-family:'Microsoft Yahei';line-height:40px;">
-		HTML是 HyperText Mark-up Language 的首字母简写，意思是超文本标记语言，超文本指的是超链接，标记指的是标签，是一种用来制作网页的语言，这种语言由一个个的标签组成，用这种语言制作的文件保存的是一个文本文件，文件的扩展名为html或者htm，一个html文件就是一个网页，html文件用编辑器打开显示的是文本，可以用文本的方式编辑它，如果用浏览器打开，浏览器会按照标签描述内容将文件渲染成网页，显示的网页可以从一个网页链接跳转到另外一个网页。
-	</div>
-  
+  - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15` 
 <!-- GitHub仓库展示 -->
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payiz-asj&hide_title=1&hide=kotlin&theme=buefy&line_height=27&layout=compact" alt="图片裂开了？这里本该显示常用语言的"/>
