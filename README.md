@@ -42,9 +42,9 @@
   - Natural Language Processing
   
 - **Recent Wishes:**
-
-<div style="color:red;">At the time of graduation, I am applying for a software engineering related job.💌</div>
-  - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15` 
+  - **At the time of graduation, I am applying for a software engineering related job.💌**
+  
+<!-- - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15` -->
 <!-- GitHub仓库展示 -->
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payiz-asj&hide_title=1&hide=kotlin&theme=buefy&line_height=27&layout=compact" alt="图片裂开了？这里本该显示常用语言的"/>
