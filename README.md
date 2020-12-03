@@ -43,7 +43,7 @@
   
 - **Recent Wishes:**
 
-  - <div style="color:red;">At the time of graduation, I am applying for a software engineering related job.💌</div>
+<div style="color:red;">At the time of graduation, I am applying for a software engineering related job.💌</div>
   
 <!-- GitHub仓库展示 -->
 <a href="#">
