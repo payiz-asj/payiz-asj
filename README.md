@@ -22,24 +22,23 @@
 - Software Engineer.👨‍💻
 - **Technology Stack:**
 
-  - Front-end: HTML 5, CSS, JS, TS, Wechat Mini Program, Framework: Vue, React .
-  - Back-end: Linux, Python Web development, crawler, scientific operation, data analysis, Framework: Django, Flask.
-  - Database: Mysql, Sql Server, Sqlite.
-  - Favorite IDE: JetBrains Family Bucket (Especially PyCharm, WebStorm, IntelliJ IDEA ), Visual Studio, Sublime Text3, VMware Workstation.
+  - Front-end: HTML 5+CSS+JS, Wechat Mini Program.
+  - Back-end: Linux, Python, C++, C#, VB, Web crawler, scientific operation, data analysis.
+  - Database: Sql Server 2018 , Sqlite.
+  - Favorite IDE: JetBrains Family Bucket (Especially PyCharm, WebStorm, IntelliJ IDEA ), Visual Studio 2019, VMware Workstation, Sublime Text3, Typora.
   - Dev Tools: Github, Gitee, Selenium, Scrapy,  postman, Fiddler,  FeHelper.
-  - Others: Adobe Family Bucket(Especially PS, PR, AU, XD), My Laptop💻, My Phone📱.
+  - Others: Adobe Family Bucket(Especially PS, PR, AU, XD), My Laptop💻, My Android Phone📱.
   
   <!-- 动图效果 -->
   <div align="right"  >-----------LOVE YOU KOBE R.I.P❤-----------</div>
     <a href="#" align="right">
-        <img align="right" src="http://5b0988e595225.cdn.sohucs.com/images/20190721/e8837828bc664adba3e9692712c90a99.gif" alt="图片裂开了？这里本该显示一个gif的"/>     
+        <img align="right" src="https://pic.imgdb.cn/item/61015ffd5132923bf89e6c47.gif" alt="图片裂开了？这里本该显示一个gif的"/>     
     </a>     
 - **Currently Focusing On:**
 
   - Data Structure, Computer Algorithm
   - Web Design,Web Crawler
   - Machine Learning
-  - Natural Language Processing
   
 - **Recent Wishes:**
   - **At the time of graduation, I am applying for a software engineering related job.💌**
@@ -66,5 +65,5 @@
 <!-- 后记 -->
 ### More:
 
-#### 💬 Enjoy yourself here or on my personal blog: [夜莺悠吟](https://yeying.tech)  
+**💬 Enjoy yourself at my [GIthub](https://github.com/payiz-asj) or my personal blog: [夜莺悠吟](https://yeying.tech)** 
 
