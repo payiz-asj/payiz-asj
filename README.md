@@ -26,7 +26,7 @@
   - Back-end: Linux, Python, C++, C#, VB, Web crawler, scientific operation, data analysis.
   - Database: Sql Server 2018 , Sqlite.
   - Favorite IDE: JetBrains Family Bucket (Especially PyCharm, WebStorm, IntelliJ IDEA ), Visual Studio 2019, VMware Workstation, Sublime Text3, Typora.
-  - Dev Tools: Github, Gitee, Selenium, Scrapy,  postman, Fiddler,  FeHelper.
+  - Dev Tools: Github, Gitee, Selenium, Scrapy,  postman, Fiddler.
   - Others: Adobe Family Bucket(Especially PS, PR, AU, XD), My Laptop💻, My Android Phone📱.
   
 
