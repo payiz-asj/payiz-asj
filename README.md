@@ -29,6 +29,14 @@
   - Dev Tools: Github, Gitee, Selenium, Scrapy,  postman, Fiddler,  FeHelper.
   - Others: Adobe Family Bucket(Especially PS, PR, AU, XD), My Laptop💻, My Android Phone📱.
   
+
+
+- **Interests:**
+  - Listening to music
+  - Coding
+  - Football, Basketball
+
+
   <!-- 动图效果 -->
   <div align="right"  >-----------LOVE YOU KOBE R.I.P❤-----------</div>
     <a href="#" align="right">
