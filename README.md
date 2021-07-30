@@ -73,5 +73,5 @@
 <!-- 后记 -->
 ### More:
 
-**💬 Enjoy yourself at my [GIthub](https://github.com/payiz-asj) or my personal blog: [夜莺悠吟](https://yeying.tech)** 
+**💬 Enjoy yourself at my [GIthub](https://github.com/payiz-asj) and my personal blog: [夜莺悠吟](https://yeying.tech)** 
 
