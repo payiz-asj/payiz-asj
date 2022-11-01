@@ -38,10 +38,10 @@
 
 
   <!-- 动图效果 -->
-  <div align="right"  >-----------LOVE YOU KOBE R.I.P❤-----------</div>
+<!--   <div align="right"  >-----------LOVE YOU KOBE R.I.P❤-----------</div>
     <a href="#" align="right">
         <img align="right" src="https://pic.imgdb.cn/item/61015ffd5132923bf89e6c47.gif" alt="图片裂开了？这里本该显示一个gif的"/>     
-    </a>     
+    </a>      -->
 - **Currently Focusing On:**
 
   - Data Structure, Computer Algorithm
