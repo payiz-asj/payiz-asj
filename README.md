@@ -18,16 +18,16 @@
 
 ### Brief Biography
 
-- Undergraduate of Department of Computer Science and Technology in Nanjing University.🎓
 - Software Engineer.👨‍💻
+
 - **Technology Stack:**
 
-  - Front-end: HTML 5+CSS+JS, Wechat Mini Program.
-  - Back-end: Linux, Python, C++, C#, VB, Web crawler, scientific operation, data analysis.
-  - Database: Sql Server 2018 , Sqlite.
+  - Front-end: H5+CSS+JS, JQ, Vue, Wechat Mini Program.
+  - Back-end:  Python, C/C++, C#, VB, Node.js, Java, Linux, Docker, Nginx, scientific operation, data analysis, web crawling.
+  - Database: Sql Server, Sqlite, Mysql.
   - Favorite IDE: JetBrains Family Bucket (Especially PyCharm, WebStorm, IntelliJ IDEA ), Visual Studio 2019, VMware Workstation, Sublime Text3, Typora.
-  - Dev Tools: Github, Gitee, Selenium, Scrapy,  postman, Fiddler.
-  - Others: Adobe Family Bucket(Especially PS, PR, AU, XD), My Laptop💻, My Android Phone📱.
+  - Dev Tools: Xshell, postman, Fiddler.
+  - Others: Adobe Family Bucket(Especially PS, PR, AU, XD), My Laptop💻, My Mobile📱.
   
 
 
@@ -44,12 +44,12 @@
     </a>      -->
 - **Currently Focusing On:**
 
-  - Data Structure, Computer Algorithm
-  - Web Design,Web Crawler
+  - Web Design,Web Crawler, Back end.
   - Machine Learning
+  - Java Web
   
 - **Recent Wishes:**
-  - **At the time of graduation, I am applying for a software engineering related job.💌**
+  - **Hope to cooperate with more excellent developers.🤝**
   
 <!-- - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15` -->
 <!-- GitHub仓库展示 -->
