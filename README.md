@@ -28,6 +28,12 @@
   - Coding
   - Football, Basketball
 
+
+<!-- WakaTime 状态 -->
+<a href="https://wakatime.com/@Nightingale">
+  <img align="right" alt="Nightingale's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nightingale&layout=compact&theme=dracula"/>
+</a>
+
 - **Currently Focusing On:**
 
   - Web3.0 Full Stack, Web Crawling,  Data Analysis.
