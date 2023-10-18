@@ -1,47 +1,59 @@
-<!-- Github 访问量 -->
-<p align="canter"> 
-<img align="left" src="https://komarev.com/ghpvc/?username=payiz-asj&color=blue&style=flat&label=PROFILE+VISITORS" alt="Github 访问量" /> 
-</p>
-<!-- 标题部分 -->
+<!-- Greeting -->
+<div style="display: flex; align-items: center; align-content: flex-start; justify-content: center; flex-direction: column;">
+    <h1 style="margin: 0;text-align: center;">Welcome!</h1>
+    <img alt="Github Visit" src="https://komarev.com/ghpvc/?username=payiz-asj&color=blue&style=flat&label=PROFILE+VISITORS"/>
+</div>
+<h1 align="center">Welcome!52166</h1>
 
-<h1 align="center">Welcome!</h1>
-<h3 align="center">I'm a passionate software developer from China💖</h3>
+<!-- Brief Biography -->
+<div style="display:flex;flex-direction: row; flex-wrap: nowrap; justify-content: flex-start; align-items: flex-start; align-content: center;width: 100vw;margin-top: 50px;font-size: 1.25rem;font-family: 'Helvetica Neue', Helvetica, 'Microsoft YaHei', '微软雅黑', Arial, sans-serif;">
+    <div style="width:50%;margin-left: 20px;">
+        <h3>Brief Biography</h3>
+        <ul>
+            <li>A passionate Software Engineer 💖</li>
+            <li>A Handsome and Sunny boy ☀️</li>
+        </ul>
+        <h3>Interests:</h3>
+        <ul>
+            <li>Football, Basketball, Other Sports</li>
+            <li>Coding</li>
+            <li>Music</li>
+        </ul>
+        <h3>Currently Focusing On:</h3>
+        <ul>
+            <li>Vue3 Frontend.</li>
+            <li>Enterprise PLM、ERP Platforms.</li>
+            <li>NLP.</li>
+        </ul>
+        <h3>Recent Wishes:</h3>
+        <ul>
+            <li>Cherish every day, accumulate knowledge, and reduce bugs 💪</li>
+        </ul>
+    </div>
+    <div style="width:50%;">
+        <div style="max-width: 500px;float: right;margin-right: 50px;">
+            <a href="#">
+                <img style="object-fit: fill;" alt="Github Stats"
+                     src="https://github-readme-stats.vercel.app/api?username=payiz-asj&hide_title=ture&hide=issues&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=flag-india"/>
+            </a>
+            <a href="#">
+                <img style="object-fit: fill;" alt="GitHub Top-Langs"
+                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=payiz-asj&hide_title=1&hide=kotlin&theme=buefy&line_height=27&layout=compact&theme=dracula"/>
+            </a>
+            <a href="https://wakatime.com/@Nightingale" target="_blank">
+                <img style="object-fit: fill; " alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nightingale&layout=compact&theme=dracula"/>
+            </a>
+        </div>
+    </div>
+</div>
 
-<!-- 个人介绍 -->
-
-### Brief Biography
-
-- Software Engineer.👨‍💻
- 
-
-- **Interests:**
-  - Football, Basketball, Other Sports
-  - Coding
-  - Music
-
-<!-- WakaTime 状态 -->
-<a href="https://wakatime.com/@Nightingale">
-  <img align="right" alt="Nightingale's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nightingale&layout=compact&theme=dracula"/>
-</a>
-<!-- GitHub 常用语言 -->
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payiz-asj&hide_title=1&hide=kotlin&theme=buefy&line_height=27&layout=compact&theme=dracula" alt="GitHub 常用语言"/>
-</a>
-<a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=payiz-asj&hide_title=ture&hide=issues&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=flag-india" />
-</a>
-
-- **Currently Focusing On:**
-  - Vue3 Frontend.
-  - Enterprise PLM、ERP Platforms.
-  - NLP.
-  
-- **Recent Wishes:**
-  - Hope to communicate and cooperate with more excellent developers.🤝
-  
-
-<!-- 后记 -->
-### More:
-
-**💬 Enjoy yourself at my [GIthub](https://github.com/payiz-asj) and my personal blog: [夜莺悠吟](https://yeying.tech)** 
+<!-- Wishes -->
+<div style="font-size: 1.25rem;font-family: 'Helvetica Neue', Helvetica, 'Microsoft YaHei', '微软雅黑', Arial, sans-serif;">
+    <p>
+        <span>💬 Enjoy yourself at my github</span>
+        <a style="text-decoration: none;" href="https://github.com/payiz-asj" target="_blank">[payiz-asj]</a>
+        <span>and my personal blog:</span>
+        <a style="text-decoration: none;" href="https://yeying.tech" target="_blank">[夜莺悠吟]</a>
+    </p>
+</div>
 
