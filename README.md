@@ -1,9 +1,8 @@
 <!-- Greeting -->
 <div style="display: flex; align-items: center; align-content: flex-start; justify-content: center; flex-direction: column;">
-    <h1 style="margin: 0;text-align: center;">Welcome!</h1>
-    <img alt="Github Visit" src="https://komarev.com/ghpvc/?username=payiz-asj&color=blue&style=flat&label=PROFILE+VISITORS"/>
+    <h1 align="center">Welcome!</h1>
+    <img align="right" alt="Github Visit" src="https://komarev.com/ghpvc/?username=payiz-asj&color=blue&style=flat&label=PROFILE+VISITORS"/>
 </div>
-<h1 align="center">Welcome!52166</h1>
 
 <!-- Brief Biography -->
 <div style="display:flex;flex-direction: row; flex-wrap: nowrap; justify-content: flex-start; align-items: flex-start; align-content: center;width: 100vw;margin-top: 50px;font-size: 1.25rem;font-family: 'Helvetica Neue', Helvetica, 'Microsoft YaHei', '微软雅黑', Arial, sans-serif;">
