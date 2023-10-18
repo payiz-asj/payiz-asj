@@ -37,10 +37,10 @@
             </a>
             <a href="#">
                 <img style="object-fit: fill;" alt="GitHub Top-Langs"
-                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=payiz-asj&hide_title=1&hide=kotlin&theme=buefy&line_height=27&layout=compact&theme=dracula"/>
+                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=payiz-asj&hide_title=1&hide=kotlin&line_height=27&layout=compact&theme=flag-india"/>
             </a>
             <a href="https://wakatime.com/@Nightingale" target="_blank">
-                <img style="object-fit: fill; " alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nightingale&layout=compact&theme=dracula"/>
+                <img style="object-fit: fill; " alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nightingale&layout=compact&theme=flag-india"/>
             </a>
         </div>
     </div>
