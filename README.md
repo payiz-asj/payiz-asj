@@ -52,7 +52,7 @@
         <span>💬 Enjoy yourself at my github</span>
         <a style="text-decoration: none;" href="https://github.com/payiz-asj" target="_blank">[payiz-asj]</a>
         <span>and my personal blog:</span>
-        <a style="text-decoration: none;" href="https://yeying.tech" target="_blank">[夜莺悠吟]</a>
+        <a style="text-decoration: none;" href="https://payiz.space" target="_blank">[夜莺悠吟]</a>
     </p>
 </div>
 
