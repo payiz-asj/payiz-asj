@@ -39,8 +39,8 @@
                 <img style="object-fit: fill;" alt="GitHub Top-Langs"
                      src="https://github-readme-stats.vercel.app/api/top-langs/?username=payiz-asj&hide_title=1&hide=kotlin&line_height=27&layout=compact&theme=flag-india"/>
             </a>
-            <a href="https://wakatime.com/@jason24" target="_blank">
-                <img style="object-fit: fill; " alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=jason24&layout=compact&theme=flag-india"/>
+            <a href="https://wakatime.com/@aa985317-0180-483d-800f-758d9a50f742" target="_blank">
+                <img style="object-fit: fill; " alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=aa985317-0180-483d-800f-758d9a50f742&layout=compact&theme=flag-india"/>
             </a>
         </div>
     </div>
