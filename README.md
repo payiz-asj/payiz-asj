@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=40&pause=100&duration=500&repeat=false&color=8704F7&center=true&width=800&height=80&lines=%F0%9F%A4%96+Access+Granted+..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=40&pause=100&duration=500&repeat=false&color=000000&center=true&width=800&height=80&lines=%F0%9F%A4%96+Access+Granted+..." alt="Typing SVG" />
   </a>
   
 </div>
