@@ -24,5 +24,5 @@
 </div>
 
 <p align="center">
-  💬 <b>ACCESS POINTS:</b> GitHub <a href="链接5">[payiz-asj]</a> | Personal Blog <a href="链接3">[夜莺悠吟]</a>
+  💬 <b>ACCESS POINTS:</b> GitHub <a href="https://github.com/payiz-asj">[payiz-asj]</a> | Personal Blog <a href="https://payiz.space/archives/">[夜莺悠吟]</a>
 </p>
